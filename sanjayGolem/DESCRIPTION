@@ -1,0 +1,23 @@
+Package: sanjayGolem
+Title: sanjay
+Version: 0.0.0.9000
+Authors@R: person('sanjay', 'hamal', email = 'sanjayhamal99@gmail.com', role = c('cre', 'aut'))
+Description: Sanjay hamal.
+License: MIT + file LICENSE
+Imports: 
+    attempt,
+    config (>= 0.3.1),
+    DT,
+    glue,
+    golem (>= 0.3.1),
+    htmltools,
+    processx,
+    shiny (>= 1.6.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Language: en-US
